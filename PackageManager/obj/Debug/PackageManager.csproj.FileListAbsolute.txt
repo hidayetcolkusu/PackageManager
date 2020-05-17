@@ -1,0 +1,16 @@
+D:\Hidayet\MyRepos\PacketManager\PacketManager\bin\Debug\PackageManager.dll
+D:\Hidayet\MyRepos\PacketManager\PacketManager\bin\Debug\PackageManager.pdb
+D:\Hidayet\MyRepos\PacketManager\PacketManager\obj\Debug\PackageManager.csproj.CoreCompileInputs.cache
+D:\Hidayet\MyRepos\PacketManager\PacketManager\obj\Debug\PackageManager.dll
+D:\Hidayet\MyRepos\PacketManager\PacketManager\obj\Debug\PackageManager.pdb
+D:\Hidayet\MyRepos\PacketManager\PacketManager\bin\Debug\ChecksumManager.dll
+D:\Hidayet\MyRepos\PacketManager\PacketManager\obj\Debug\PackageManager.csproj.CopyComplete
+D:\Hidayet\MyRepos\PacketManager\PacketManager\obj\Debug\PackageManager.csprojAssemblyReference.cache
+D:\Hidayet\MyRepos\PackageManager-2\PackageManager\PackageManager\bin\Debug\PackageManager.dll
+D:\Hidayet\MyRepos\PackageManager-2\PackageManager\PackageManager\bin\Debug\PackageManager.pdb
+D:\Hidayet\MyRepos\PackageManager-2\PackageManager\PackageManager\bin\Debug\ChecksumManager.dll
+D:\Hidayet\MyRepos\PackageManager-2\PackageManager\PackageManager\obj\Debug\PackageManager.csprojAssemblyReference.cache
+D:\Hidayet\MyRepos\PackageManager-2\PackageManager\PackageManager\obj\Debug\PackageManager.csproj.CoreCompileInputs.cache
+D:\Hidayet\MyRepos\PackageManager-2\PackageManager\PackageManager\obj\Debug\PackageManager.csproj.CopyComplete
+D:\Hidayet\MyRepos\PackageManager-2\PackageManager\PackageManager\obj\Debug\PackageManager.dll
+D:\Hidayet\MyRepos\PackageManager-2\PackageManager\PackageManager\obj\Debug\PackageManager.pdb

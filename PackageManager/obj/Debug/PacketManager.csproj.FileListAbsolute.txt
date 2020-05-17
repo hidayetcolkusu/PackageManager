@@ -1,0 +1,6 @@
+D:\Hidayet\MyRepos\PacketManager\PacketManager\obj\Debug\PacketManager.csproj.CoreCompileInputs.cache
+D:\Hidayet\MyRepos\PacketManager\PacketManager\obj\Debug\PacketManager.csprojAssemblyReference.cache
+D:\Hidayet\MyRepos\PacketManager\PacketManager\bin\Debug\PackageManager.dll
+D:\Hidayet\MyRepos\PacketManager\PacketManager\bin\Debug\PackageManager.pdb
+D:\Hidayet\MyRepos\PacketManager\PacketManager\obj\Debug\PackageManager.dll
+D:\Hidayet\MyRepos\PacketManager\PacketManager\obj\Debug\PackageManager.pdb
